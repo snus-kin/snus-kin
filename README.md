@@ -1,5 +1,6 @@
 snufkin
 
+## Blog Posts
 <!-- blog starts -->
 * [DJ Screw, Vaporwave, Digital Lost Futures](https://snufk.in/blog/vaporwave.html) - Thu, 09 Jul 2020
 * [Beer Brewing - Starting out](https://snufk.in/blog/beer-1.html) - Wed, 27 May 2020
