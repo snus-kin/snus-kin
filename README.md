@@ -11,6 +11,12 @@ snufkin
 
 <p align="center">
 <!-- moon starts -->
-Unknown location; please try ~51.5098816,-0.0985084398500166
+
+We were unable to find your location
+so we have brought you to Oymyakon,
+one of the coldest permanently inhabited locales on the planet.
+
+Follow [46m[30m@igor_chubin[0m for wttr.in updates
+
 <!-- moon ends -->
 </p>
