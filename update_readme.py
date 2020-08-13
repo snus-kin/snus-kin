@@ -7,7 +7,7 @@ import requests
 import feedparser
 
 BLOG_FEED = "https://snufk.in/blog/rss.xml"
-WTTR_MOON = "https://wttr.in/london?format=%m"
+WTTR_MOON = "https://wttr.in/51.509648,-0.099076?format=%m"
 ROOT = pathlib.Path(__file__).parent.resolve()
 
 
