@@ -11,6 +11,6 @@ snufkin
 
 <p align="center">
 <!-- moon starts -->
-Unknown location; please try ~51.509648,-0.099076
+Unknown location; please try ~51.5098816,-0.0985084398500166
 <!-- moon ends -->
 </p>
