@@ -11,6 +11,6 @@ snufkin
 
 <p align="center">
 <!-- moon starts -->
-🌑
+🌒
 <!-- moon ends -->
 </p>
