@@ -39,11 +39,6 @@ def get_blog_entries():
     ]
 
 
-def get_moon_text():
-    """ Get the moon text, perhaps more to be done here """
-    return requests.get(WTTR_MOON).text
-
-
 if __name__ == "__main__":
     readme = ROOT / "README.md"
     readme_content = readme.open().read()
@@ -56,9 +51,5 @@ if __name__ == "__main__":
     )
 
     rewritten = replace_chunk(readme_content, "blog", ENTRIES_MD)
-
-    moon = get_moon_text()
-
-    rewritten = replace_chunk(rewritten, "moon", moon)
 
     readme.open("w").write(rewritten)
